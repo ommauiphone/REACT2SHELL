@@ -13,7 +13,7 @@ APP_NAME=""
 SYSTEMD_SERVICE=""
 PACKAGE_NAME=""
 PHP_PORT="3000"
-PROJECT_PATH="/calcom/apps/web"
+PROJECT_PATH=""
 NEXT_PID=""
 
 # Fungsi print dengan warna
